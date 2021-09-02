@@ -1,4 +1,4 @@
-Para Rodar o programa é necessário a instalação do Python e após isso colocar o arquivo a ser convertido na pasta input e clicar no Converter.py
+Para Rodar o programa é necessário a instalação do Python e após isso colocar o arquivo a ser convertido na pasta input e clicar no Converter.py o arquivo Gerado vai ficar na mesma pasta do arquivo original. Créditos no Arquivo COPYING.
 
 # vgmstream
 
