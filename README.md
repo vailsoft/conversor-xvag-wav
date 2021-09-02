@@ -1,3 +1,5 @@
+Para Rodar o programa é necessário a instalação do Python e após isso colocar o arquivo a ser convertido na pasta input e clicar no Converter.py
+
 # vgmstream
 
 This is vgmstream, a library for playing streamed (pre-recorded) audio from
