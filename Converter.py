@@ -1,3 +1,4 @@
+# ARQUIVO CRIADO POR VAILSOFT PRA TORNAR O PROCESSO DE CONVERSÃO DE MÚLTIPLOS ARQUIVOS MAIS SIMPLES
 import os
 pasta = 'input'
 for diretorio, subpastas, arquivos in os.walk(pasta):
